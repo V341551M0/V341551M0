@@ -9,8 +9,8 @@ Desenvolvendo aplicações web com atenção à arquitetura, APIs e qualidade de
 
 [Português](#português) · [English](#english)
 
-[![GitHub Followers](https://img.shields.io/github/followers/SEU_USUARIO?style=flat&logo=github&label=Seguidores&color=555555)](https://github.com/SEU_USUARIO)
-[![GitHub Stars](https://img.shields.io/github/stars/SEU_USUARIO?affiliations=OWNER%2CCOLLABORATOR&style=flat&logo=github&label=Stars&color=555555)](https://github.com/SEU_USUARIO)
+[![GitHub Followers](https://img.shields.io/github/followers/V341551M0?style=flat&logo=github&label=Seguidores&color=555555)](https://github.com/V341551M0)
+[![GitHub Stars](https://img.shields.io/github/stars/V341551M0?affiliations=OWNER%2CCOLLABORATOR&style=flat&logo=github&label=Stars&color=555555)](https://github.com/V341551M0)
 
 </div>
 
