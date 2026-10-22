@@ -61,9 +61,9 @@ Tenho interesse em escrever código organizado, desenvolver soluções eficiente
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&theme=default&icon_color=555555&title_color=222222&text_color=444444" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=V341551M0&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&theme=default&icon_color=555555&title_color=222222&text_color=444444" alt="Estatísticas do GitHub" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&theme=default&langs_count=6&title_color=222222&text_color=444444" alt="Linguagens mais utilizadas nos repositórios" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V341551M0&layout=compact&hide_border=true&theme=default&langs_count=6&title_color=222222&text_color=444444" alt="Linguagens mais utilizadas nos repositórios" />
 
 </div>
 
@@ -71,7 +71,7 @@ Tenho interesse em escrever código organizado, desenvolver soluções eficiente
 
 ### Contato
 
-- **GitHub:** [github.com/SEU_USUARIO](https://github.com/SEU_USUARIO)
+- **GitHub:** [github.com/SEU_USUARIO](https://github.com/V341551M0)
 - **LinkedIn:** www.linkedin.com/in/kaua-verissimo-dev
 - **E-mail:** kauaverissimo@protonmail.com
 
@@ -122,9 +122,9 @@ I am interested in writing clean code, building efficient solutions, and continu
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&theme=default&icon_color=555555&title_color=222222&text_color=444444" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=V341551M0&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&theme=default&icon_color=555555&title_color=222222&text_color=444444" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default&langs_count=6&title_color=222222&text_color=444444" alt="Most-used languages across repositories" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V341551M0&layout=compact&hide_border=true&theme=default&langs_count=6&title_color=222222&text_color=444444" alt="Most-used languages across repositories" />
 
 </div>
 
@@ -132,7 +132,7 @@ I am interested in writing clean code, building efficient solutions, and continu
 
 ### Contact
 
-- **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- **GitHub:** [github.com/YOUR_USERNAME](https://github.com/V341551M0)
 - **LinkedIn:** www.linkedin.com/in/kaua-verissimo-dev
 - **Email:** kauaverissimo@protonmail.com
 
