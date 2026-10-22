@@ -44,7 +44,7 @@ Meu objetivo é desenvolver soluções bem estruturadas, manter código legível
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=donut-vertical&hide_border=true&theme=transparent&title_color=888888&text_color=888888&langs_count=6" alt="Linguagens mais utilizadas" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V341551M0&layout=donut-vertical&hide_border=true&theme=transparent&title_color=888888&text_color=888888&langs_count=6" alt="Linguagens mais utilizadas" />
 
 </td>
 </tr>
@@ -111,10 +111,10 @@ Meu objetivo é desenvolver soluções bem estruturadas, manter código legível
 <div align="center">
 
 <a href="https://github.com/V341551M0/ProjectsManeger">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPOSITORIO_1&hide_border=true&theme=transparent&title_color=888888&text_color=888888" alt="Projeto 1"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=V341551M0&repo=https://github.com/V341551M0/ProjectsManeger&hide_border=true&theme=transparent&title_color=888888&text_color=888888" alt="Projeto 1"/>
 </a>
 <a href="https://github.com/HALIANZA/halianza-office">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPOSITORIO_2&hide_border=true&theme=transparent&title_color=888888&text_color=888888" alt="Projeto 2"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=V341551M0&repo=https://github.com/HALIANZA/halianza-office&hide_border=true&theme=transparent&title_color=888888&text_color=888888" alt="Projeto 2"/>
 </a>
 
 </div>
