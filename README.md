@@ -9,9 +9,6 @@ Desenvolvendo aplicações web com atenção à arquitetura, APIs e qualidade de
 
 [Português](#português) · [English](#english)
 
-[![GitHub Followers](https://img.shields.io/github/followers/V341551M0?style=flat&logo=github&label=Seguidores&color=555555)](https://github.com/V341551M0)
-[![GitHub Stars](https://img.shields.io/github/stars/V341551M0?affiliations=OWNER%2CCOLLABORATOR&style=flat&logo=github&label=Stars&color=555555)](https://github.com/V341551M0)
-
 </div>
 
 ---
@@ -71,7 +68,7 @@ Tenho interesse em escrever código organizado, desenvolver soluções eficiente
 
 ### Contato
 
-- **GitHub:** [github.com/SEU_USUARIO](https://github.com/V341551M0)
+- **GitHub:** [github.com/V341551M0](https://github.com/V341551M0)
 - **LinkedIn:** www.linkedin.com/in/kaua-verissimo-dev
 - **E-mail:** kauaverissimo@protonmail.com
 
@@ -132,7 +129,7 @@ I am interested in writing clean code, building efficient solutions, and continu
 
 ### Contact
 
-- **GitHub:** [github.com/YOUR_USERNAME](https://github.com/V341551M0)
+- **GitHub:** [github.com/V31551M0](https://github.com/V341551M0)
 - **LinkedIn:** www.linkedin.com/in/kaua-verissimo-dev
 - **Email:** kauaverissimo@protonmail.com
 
