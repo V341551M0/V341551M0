@@ -1,109 +1,131 @@
-<div align="center">
+# Kauã Veríssimo Saraiva
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · v341551m0</sub></p>
-<h1>Kauã Veríssimo</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Computer Science Student • Java Backend Developer • Spring Boot • Docker • MySQL • Learning AI &amp; Data Science</p>
-<p><strong>● Building and sharing work in public</strong></p>
-
-<p><a href="https://github.com/v341551m0">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/187907796?u=a61764ed484da97535839df77ffe33e6a14869ed&amp;v=4" width="180" alt="Kauã Veríssimo GitHub avatar" />
-</td>
-</tr>
-</table>
-</div>
-
-<h2>What teams can evaluate quickly</h2>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Java · TypeScript · CSS</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>6 repositories · 5 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>335 contributions · 69 active days</p></td>
-</tr>
-</table>
-
-<p><sub>Computer Science Student • Java Backend Developer • Spring Boot • Docker • MySQL • Learning AI &amp; Data Science</sub></p>
-
-<h2>Proof at a glance</h2>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>6</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>5</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>335</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+**Software Developer | Backend Engineering | Java & Spring Boot**
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=v341551m0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187907796%3Fu%3Da61764ed484da97535839df77ffe33e6a14869ed%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=v341551m0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187907796%3Fu%3Da61764ed484da97535839df77ffe33e6a14869ed%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Kauã Veríssimo GitHub proof metrics" />
-</picture>
+  <a href="https://github.com/V341551M0">
+    <img src="https://img.shields.io/badge/GitHub-V341551M0-181717?style=flat-square&logo=github" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-2563EB?style=flat-square" alt="Backend Engineering"/>
+  <img src="https://img.shields.io/badge/Primary%20Language-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
 
-<h2>Selected work</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=v341551m0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187907796%3Fu%3Da61764ed484da97535839df77ffe33e6a14869ed%26v%3D4&repos=v341551m0%2FFinanceFlow%2Cv341551m0%2FProjectsManeger%2Cv341551m0%2FTaskFlow%2Cv341551m0%2FAuthFlow-Java&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=v341551m0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187907796%3Fu%3Da61764ed484da97535839df77ffe33e6a14869ed%26v%3D4&repos=v341551m0%2FFinanceFlow%2Cv341551m0%2FProjectsManeger%2Cv341551m0%2FTaskFlow%2Cv341551m0%2FAuthFlow-Java&v=recruiter-projects-1&mode=dark" width="100%" alt="Kauã Veríssimo selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/V341551M0/FinanceFlow">FinanceFlow</a></h3>
-<p>Finance manager and financial market monitoring of stocks and crypto</p>
-<p><sub>Java · ⭐ 1 · 🍴 0</sub></p>
-<p><a href="https://github.com/V341551M0/FinanceFlow">Read the repository →</a></p>
-</td>
-</tr>
-</table>
+## About Me
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/V341551M0/ProjectsManeger">ProjectsManeger</a></h3><p>Gerenciador de Projetos</p><p><sub>Java · ⭐ 1</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/V341551M0/TaskFlow">TaskFlow</a></h3><p>Gerenciamento de Tarefas</p><p><sub>Java · ⭐ 1</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/V341551M0/AuthFlow-Java">AuthFlow-Java</a></h3><p>Sistema de autenticação e gerenciamento de usuários em Java com JDBC e MySQL.</p><p><sub>Java · ⭐ 1</sub></p></td>
-</tr>
-</table>
+I'm a Computer Science student and software developer focused on building reliable, maintainable, and scalable software systems.
 
-<h2>Technical toolkit</h2>
+My primary area of interest is **Backend Engineering**, particularly Java-based applications, RESTful APIs, database architecture, and software design.
+
+I enjoy understanding systems beyond their implementation: how they are architected, how their components communicate, how data is managed, and how engineering decisions affect reliability and scalability.
+
+Currently focused on:
+
+- Backend development with Java and Spring Boot.
+- Software architecture and design principles.
+- Relational databases and data modeling.
+- REST API development and system integration.
+- Automated testing and software quality.
+- Full-stack development and modern application ecosystems.
+
+My long-term goal is to become a well-rounded Software Engineer capable of designing and building complex software systems.
+
+## Technical Skills
+
+**Backend Development**
+- Java
+- Spring Boot
+- Node.js
+- RESTful APIs
+- Maven
+
+**Frontend Development**
+- JavaScript
+- TypeScript
+- React
+- HTML5
+- CSS3
+
+**Databases**
+- PostgreSQL
+- SQL
+- Relational Data Modeling
+- Database Migrations
+
+**Tools & Infrastructure**
+- Git & GitHub
+- Docker
+- Linux
+- IntelliJ IDEA
+- DataGrip
+
+**Engineering Practices**
+- Object-Oriented Programming
+- Clean Code
+- SOLID Principles
+- Software Architecture
+- Automated Testing
+- API Design
+
+## Current Focus
+
+I'm currently investing most of my development time in:
+
+- Deepening my knowledge of Java and the Spring ecosystem.
+- Improving my understanding of software architecture.
+- Developing database-driven applications with PostgreSQL.
+- Building complete backend systems with maintainability in mind.
+- Exploring engineering workflows, development tools, and AI-assisted software development.
+
+## Selected Projects
+
+### FinanceFlow
+
+A personal financial management platform evolving into a comprehensive financial technology system.
+
+**Technologies:** Java · Spring Boot · PostgreSQL · REST APIs
+
+[View Repository](https://github.com/V341551M0/FinanceFlow)
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=v341551m0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187907796%3Fu%3Da61764ed484da97535839df77ffe33e6a14869ed%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=v341551m0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187907796%3Fu%3Da61764ed484da97535839df77ffe33e6a14869ed%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Kauã Veríssimo technology stack" />
-</picture>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=V341551M0&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V341551M0&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages"/>
 </p>
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Java</strong><br /><sub>69% of public code</sub></td>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>10% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>8% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>7% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>4% of public code</sub></td>
-</tr>
-</table>
+## Contribution Activity
 
-<h2>Consistency signal</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season.svg">
+  <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+</picture>
+
+### Veríssimo — What These Towers Mean
+
+- **Tall** weeks = pairing on greenfield work.
+- **Flat** stretches = vacations or deep-research weeks.
+- **Spiky** weekends = side projects and independent engineering experiments.
+
+## Engineering Philosophy
+
+> Good software is not simply code that works. It is software that can be understood, maintained, tested, and evolved.
+
+I believe in continuous learning, engineering discipline, thoughtful architecture, and building technology that solves real problems.
+
+---
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=v341551m0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187907796%3Fu%3Da61764ed484da97535839df77ffe33e6a14869ed%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=v341551m0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187907796%3Fu%3Da61764ed484da97535839df77ffe33e6a14869ed%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Kauã Veríssimo contribution activity" />
-</picture>
+  <i>Designing, building, learning, and improving — one commit at a time.</i>
 </p>
 
-<hr />
+<p align="center">
+  <a href="https://github.com/V341551M0">GitHub</a>
+</p>
 
 <table width="100%">
 <tr>
