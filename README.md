@@ -100,7 +100,17 @@ Meu objetivo é desenvolver soluções bem estruturadas, manter código legível
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=V341551M0&bg_color=00000000&color=888888&line=888888&point=BBBBBB&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season.svg">
+  <img alt="3d contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+</picture>
+
+### {{name}} — what these towers mean
+
+- **Tall** weeks = pairing on greenfield work
+- **Flat** stretches = vacations or deep-research weeks
+- **Spiky** weekends = side projects, [{{website}}]({{website_url}})
 
 </div>
 
