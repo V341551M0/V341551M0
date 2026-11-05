@@ -1,175 +1,115 @@
-
 <div align="center">
 
-# Verissimo
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · v341551m0</sub></p>
+<h1>Kauã Veríssimo</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Computer Science Student • Java Backend Developer • Spring Boot • Docker • MySQL • Learning AI &amp; Data Science</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-### Full Stack Software Developer · Backend Focus
-
-**Construindo software. Aprimorando sistemas. Aprendendo continuamente.**
-
-[🇧🇷 Português](#-sobre-mim) · [🇺🇸 English](#-about-me)
-
-<a href="https://github.com/V341551M0">
-  <img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="www.linkedin.com/in/kaua-verissimo-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:kauaverissimo@protonmail.com">
-  <img src="https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
+<p><a href="https://github.com/v341551m0">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/187907796?u=a61764ed484da97535839df77ffe33e6a14869ed&amp;v=4" width="180" alt="Kauã Veríssimo GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
----
+<h2>What teams can evaluate quickly</h2>
 
-## 👨‍💻 Sobre mim
-
-<table>
+<table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Java · TypeScript · CSS</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>6 repositories · 5 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>335 contributions · 69 active days</p></td>
+</tr>
+</table>
 
-Sou estudante de **Bacharelado em Ciência da Computação** e desenvolvedor de software **Full Stack com foco em Backend**.
+<p><sub>Computer Science Student • Java Backend Developer • Spring Boot • Docker • MySQL • Learning AI &amp; Data Science</sub></p>
 
-Tenho interesse em desenvolvimento de aplicações web, construção de APIs, bancos de dados e infraestrutura de software.
+<h2>Proof at a glance</h2>
 
-Meu objetivo é desenvolver soluções bem estruturadas, manter código legível e evoluir continuamente minhas habilidades em engenharia de software.
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>6</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>5</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>335</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-- 🎓 Ciência da Computação — em andamento
-- ⚙️ Foco principal em backend e APIs
-- 🌐 Desenvolvimento full stack
-- 🧠 Interesse em arquitetura e boas práticas
-- 🔓 Interesse em software e projetos open source
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=v341551m0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187907796%3Fu%3Da61764ed484da97535839df77ffe33e6a14869ed%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=v341551m0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187907796%3Fu%3Da61764ed484da97535839df77ffe33e6a14869ed%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Kauã Veríssimo GitHub proof metrics" />
+</picture>
+</p>
 
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=v341551m0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187907796%3Fu%3Da61764ed484da97535839df77ffe33e6a14869ed%26v%3D4&repos=v341551m0%2FFinanceFlow%2Cv341551m0%2FProjectsManeger%2Cv341551m0%2FTaskFlow%2Cv341551m0%2FAuthFlow-Java&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=v341551m0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187907796%3Fu%3Da61764ed484da97535839df77ffe33e6a14869ed%26v%3D4&repos=v341551m0%2FFinanceFlow%2Cv341551m0%2FProjectsManeger%2Cv341551m0%2FTaskFlow%2Cv341551m0%2FAuthFlow-Java&v=recruiter-projects-1&mode=dark" width="100%" alt="Kauã Veríssimo selected projects" />
+</picture>
 </td>
-<td width="40%" align="center" valign="middle">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V341551M0&layout=donut-vertical&hide_border=true&theme=transparent&title_color=888888&text_color=888888&langs_count=6" alt="Linguagens mais utilizadas" />
-
+<td width="42%" valign="top">
+<h3><a href="https://github.com/V341551M0/FinanceFlow">FinanceFlow</a></h3>
+<p>Finance manager and financial market monitoring of stocks and crypto</p>
+<p><sub>Java · ⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/V341551M0/FinanceFlow">Read the repository →</a></p>
 </td>
 </tr>
 </table>
 
-## 🛠️ Tech Stack
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/V341551M0/ProjectsManeger">ProjectsManeger</a></h3><p>Gerenciador de Projetos</p><p><sub>Java · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/V341551M0/TaskFlow">TaskFlow</a></h3><p>Gerenciamento de Tarefas</p><p><sub>Java · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/V341551M0/AuthFlow-Java">AuthFlow-Java</a></h3><p>Sistema de autenticação e gerenciamento de usuários em Java com JDBC e MySQL.</p><p><sub>Java · ⭐ 1</sub></p></td>
+</tr>
+</table>
 
-### Backend
+<h2>Technical toolkit</h2>
 
-<p>
-<img src="https://img.shields.io/badge/Java-181818?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Spring_Boot-181818?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/Node.js-181818?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://img.shields.io/badge/React-181818?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-<img src="https://img.shields.io/badge/TypeScript-181818?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-181818?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### Database, DevOps & Cloud
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-181818?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Docker-181818?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/AWS-181818?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-</p>
-
-### Development Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-181818?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=V341551M0&show_icons=true&hide_border=true&theme=transparent&title_color=888888&text_color=888888&icon_color=888888&rank_icon=github" alt="GitHub Statistics"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=V341551M0&hide_border=true&background=00000000&ring=888888&fire=AAAAAA&currStreakLabel=888888&sideLabels=888888&currStreakNum=BBBBBB&sideNums=BBBBBB&dates=777777" alt="GitHub Contribution Streak"/>
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
+<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season.svg">
-  <img alt="3d contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=v341551m0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187907796%3Fu%3Da61764ed484da97535839df77ffe33e6a14869ed%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=v341551m0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187907796%3Fu%3Da61764ed484da97535839df77ffe33e6a14869ed%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Kauã Veríssimo technology stack" />
 </picture>
+</p>
 
-### {{name}} — what these towers mean
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Java</strong><br /><sub>69% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>10% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>8% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>7% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>4% of public code</sub></td>
+</tr>
+</table>
 
-- **Tall** weeks = pairing on greenfield work
-- **Flat** stretches = vacations or deep-research weeks
-- **Spiky** weekends = side projects, [{{website}}]({{website_url}})
+<h2>Consistency signal</h2>
 
-</div>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=v341551m0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187907796%3Fu%3Da61764ed484da97535839df77ffe33e6a14869ed%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=v341551m0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F187907796%3Fu%3Da61764ed484da97535839df77ffe33e6a14869ed%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Kauã Veríssimo contribution activity" />
+</picture>
+</p>
 
----
+<hr />
 
-## 🚀 Featured Projects
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/v341551m0">GitHub</a></td>
+</tr>
+</table>
 
-<div align="center">
-
-<a href="https://github.com/V341551M0/ProjectsManeger">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=V341551M0&repo=https://github.com/V341551M0/ProjectsManeger&hide_border=true&theme=transparent&title_color=888888&text_color=888888" alt="Projeto 1"/>
-</a>
-<a href="https://github.com/HALIANZA/halianza-office">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=V341551M0&repo=https://github.com/HALIANZA/halianza-office&hide_border=true&theme=transparent&title_color=888888&text_color=888888" alt="Projeto 2"/>
-</a>
-
-</div>
-
----
-
-## 📫 Vamos nos conectar?
-
-<div align="center">
-
-<a href="https://github.com/V341551M0">
-  <img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="www.linkedin.com/in/kaua-verissimo-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-181818?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:kauaverissimo@protonmail.com">
-  <img src="https://img.shields.io/badge/Email-181818?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
-
----
-
-## 🇺🇸 About me
-
-I am an undergraduate **Computer Science student** and a **Full Stack Software Developer focused on Backend Development**.
-
-I am interested in web applications, API development, databases, and software infrastructure. My goal is to build well-structured solutions, write maintainable code, and continuously improve my software engineering skills.
-
-- 🎓 Computer Science — in progress
-- ⚙️ Main focus on backend development and APIs
-- 🌐 Full-stack web development
-- 🧠 Interested in software architecture and best practices
-- 🔓 Interested in open-source software and projects
-
-### My development philosophy
-
-> Build with purpose. Write maintainable code. Keep learning.
-
----
-
-<div align="center">
-
-*Aprendendo continuamente. Construindo com propósito.*
-
-</div>
-
+<p align="center"><sub>Kauã Veríssimo · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
