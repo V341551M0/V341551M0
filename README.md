@@ -1,103 +1,97 @@
-# Kauã Veríssimo Saraiva
-
-**Software Developer | Backend Engineering | Java & Spring Boot**
+# `verissimo.dev`
 
 <p align="center">
-  <a href="https://github.com/V341551M0">
-    <img src="https://img.shields.io/badge/GitHub-V341551M0-181717?style=flat-square&logo=github" alt="GitHub"/>
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-2563EB?style=flat-square" alt="Backend Engineering"/>
-  <img src="https://img.shields.io/badge/Primary%20Language-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/ENGINEERING-BACKEND-FF6B35?style=flat-square" />
+  <img src="https://img.shields.io/badge/LANGUAGE-JAVA-9B72CF?style=flat-square" />
+  <img src="https://img.shields.io/badge/LOCATION-BRAZIL-45454F?style=flat-square" />
+</p>
+
+<p align="center">
+  <samp>BUILDING SOFTWARE. ENGINEERING SYSTEMS.</samp>
 </p>
 
 ---
 
-## About Me
+### `01` — PROFILE
 
-I'm a Computer Science student and software developer focused on building reliable, maintainable, and scalable software systems.
+Computer Science student and Software Developer focused on **Backend Engineering**, software architecture, and the development of reliable applications.
 
-My primary area of interest is **Backend Engineering**, particularly Java-based applications, RESTful APIs, database architecture, and software design.
+I work primarily with Java and the Spring ecosystem, exploring the engineering principles behind maintainable, scalable, and well-structured software.
 
-I enjoy understanding systems beyond their implementation: how they are architected, how their components communicate, how data is managed, and how engineering decisions affect reliability and scalability.
+My interests extend beyond writing code: I enjoy system design, database architecture, integration patterns, software quality, and understanding how complex systems work together.
 
-Currently focused on:
+```java
+public class Developer {
 
-- Backend development with Java and Spring Boot.
-- Software architecture and design principles.
-- Relational databases and data modeling.
-- REST API development and system integration.
-- Automated testing and software quality.
-- Full-stack development and modern application ecosystems.
+    private final String name = "Kauã Veríssimo Saraiva";
+    private final String role = "Software Developer";
+    private final String specialization = "Backend Engineering";
 
-My long-term goal is to become a well-rounded Software Engineer capable of designing and building complex software systems.
+    private final String[] interests = {
+        "Software Architecture",
+        "Distributed Systems",
+        "Database Engineering",
+        "System Integration",
+        "Clean Code"
+    };
+}
+```
 
-## Technical Skills
+### `02` — TECHNOLOGY STACK
 
-**Backend Development**
-- Java
-- Spring Boot
-- Node.js
-- RESTful APIs
-- Maven
+**BACKEND**
 
-**Frontend Development**
-- JavaScript
-- TypeScript
-- React
-- HTML5
-- CSS3
+![Java](https://img.shields.io/badge/Java-FF6B35?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
-**Databases**
-- PostgreSQL
-- SQL
-- Relational Data Modeling
-- Database Migrations
+**FRONTEND**
 
-**Tools & Infrastructure**
-- Git & GitHub
-- Docker
-- Linux
-- IntelliJ IDEA
-- DataGrip
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Engineering Practices**
-- Object-Oriented Programming
-- Clean Code
-- SOLID Principles
-- Software Architecture
-- Automated Testing
-- API Design
+**DATABASES & INFRASTRUCTURE**
 
-## Current Focus
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-I'm currently investing most of my development time in:
+### `03` — ENGINEERING INTERESTS
 
-- Deepening my knowledge of Java and the Spring ecosystem.
-- Improving my understanding of software architecture.
-- Developing database-driven applications with PostgreSQL.
-- Building complete backend systems with maintainability in mind.
-- Exploring engineering workflows, development tools, and AI-assisted software development.
+| Domain | Focus |
+|:--|:--|
+| Backend Engineering | APIs, business logic and application services |
+| Software Architecture | SOLID, Clean Architecture and design patterns |
+| Database Engineering | SQL, relational modeling and migrations |
+| System Integration | REST APIs and external services |
+| Software Quality | Automated testing and maintainability |
+| Development Infrastructure | Linux, Docker and engineering tools |
 
-## Selected Projects
+### `04` — SELECTED PROJECTS
 
-### FinanceFlow
+#### FinanceFlow
 
-A personal financial management platform evolving into a comprehensive financial technology system.
+`FINANCIAL TECHNOLOGY / BACKEND ENGINEERING`
 
-**Technologies:** Java · Spring Boot · PostgreSQL · REST APIs
+A financial management platform evolving toward a comprehensive financial technology ecosystem.
 
-[View Repository](https://github.com/V341551M0/FinanceFlow)
+**Core technologies:** Java · Spring Boot · PostgreSQL · Maven
 
----
+[EXPLORE PROJECT →](https://github.com/V341551M0/FinanceFlow)
 
-## GitHub Statistics
+### `05` — DEVELOPMENT METRICS
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=V341551M0&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V341551M0&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=V341551M0&show_icons=true&hide_border=true&bg_color=0D0D0F&title_color=FF6B35&icon_color=9B72CF&text_color=C5C5CC&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V341551M0&layout=compact&hide_border=true&bg_color=0D0D0F&title_color=FF6B35&text_color=C5C5CC" />
 </p>
 
-## Contribution Activity
+### `06` — CONTRIBUTION ACTIVITY
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
@@ -105,33 +99,26 @@ A personal financial management platform evolving into a comprehensive financial
   <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
 </picture>
 
-### Veríssimo — What These Towers Mean
+#### Veríssimo — What These Towers Mean
 
 - **Tall** weeks = pairing on greenfield work.
 - **Flat** stretches = vacations or deep-research weeks.
 - **Spiky** weekends = side projects and independent engineering experiments.
 
-## Engineering Philosophy
+### `07` — ENGINEERING PRINCIPLES
 
-> Good software is not simply code that works. It is software that can be understood, maintained, tested, and evolved.
-
-I believe in continuous learning, engineering discipline, thoughtful architecture, and building technology that solves real problems.
+```text
+01. Understand the problem before writing code.
+02. Prefer clarity over unnecessary complexity.
+03. Design for maintainability and evolution.
+04. Test assumptions, validate implementations.
+05. Keep learning. Keep building.
+```
 
 ---
 
 <p align="center">
-  <i>Designing, building, learning, and improving — one commit at a time.</i>
+  <samp>DESIGNED WITH PURPOSE. BUILT WITH ENGINEERING.</samp>
+  <br/>
+  <sub>© 2026 Kauã Veríssimo Saraiva</sub>
 </p>
-
-<p align="center">
-  <a href="https://github.com/V341551M0">GitHub</a>
-</p>
-
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/v341551m0">GitHub</a></td>
-</tr>
-</table>
-
-<p align="center"><sub>Kauã Veríssimo · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
